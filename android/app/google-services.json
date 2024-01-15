@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "129187693366",
+    "project_id": "ecommercapp-296aa",
+    "storage_bucket": "ecommercapp-296aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129187693366:android:032a9a7ad4dabeda6d2997",
+        "android_client_info": {
+          "package_name": "com.engabdualkarimecomapp.com.ecommericappstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129187693366-87ei6gfdp2262r321skgpb94s654bcu2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhNyR1Hv5jjTCzHK62HGWAQuapY0IGg2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129187693366-87ei6gfdp2262r321skgpb94s654bcu2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
